@@ -71,11 +71,3 @@ img {
 .clear {
   clear: both;
 }
-/* MEDIAQUERY */
-
-@media screen and (min-width: 419px) {
-  .row{
-    width: 100%;
-
-  }
-}
